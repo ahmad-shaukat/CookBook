@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './shopping-list.component.html',
   styleUrl: './shopping-list.component.css'
 })
-export class ShoppingListComponent {
+export class ShoppingListComponent implements OnInit {
 
 }
